@@ -15,22 +15,19 @@ Below you will find my resume and links to my work, projects, and professional b
 ## 🧩 Projects
 
 ### Mohawk Medbuy – QwantifyP2P Solution
-- Supported procurement modernization through QwantifyP2P
-- Delivered project coordination, requirements support, and workflow alignment
+- Developed architecture documents for the solutions that utilize AWS, Azure Storage Blob, Microsoft Business Central, and .NET technologies for Accounts Payable, Purchasing, Electronic Requisitioning, and Finance.
 
 ### ONxpress Transportation Partners – IVU Implementation
 - Led end-to-end delivery of IVU Transit Operations cloud technologies (AWS SaaS) supporting Train Crew, Fleet, Train Service Planning, and Network Operations Centre.
 - Developed architecture documents (Conceptual, Logical, Physical) using TOGAF and the Blue Dolphin platform.
 
-- Assisted with system configuration, data validation, and stakeholder coordination
-
 ### Toyota Canada – My Toolbox & SharePoint Workspaces Modernization
+- Modernization of current SharePoint 2013 intranet to SharePoint Online
 - Modernized legacy SharePoint workspaces
-- Improved collaboration, document management, and workflow automation
 
 ### Toyota Canada – LOB Apps Migration & Development
 - Migrated legacy business applications to modern platforms
-- Built Power Platform solutions to replace outdated workflows
+- Built Power Platform solutions using Power Apps and Power Automate for Parts Purchase App, Demo Service Calendar, Expense Pre-approval App, F&A Knowledge Base App, Course Calendar, ADP/GLI, Toyota University, and TCI Firmware App. 
 
 ### Metrolinx – Office 365 Migration
 - Supported enterprise migration planning and execution
