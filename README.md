@@ -30,24 +30,19 @@ Below you will find my resume and links to my work, projects, and professional b
 - Built Power Platform solutions using Power Apps and Power Automate for Parts Purchase App, Demo Service Calendar, Expense Pre-approval App, F&A Knowledge Base App, Course Calendar, ADP/GLI, Toyota University, and TCI Firmware App. 
 
 ### Metrolinx – Office 365 Migration
-- Supported enterprise migration planning and execution
-- Assisted with user onboarding, communication, and adoption
+- Developed Architecture views
 
 ### Metrolinx – SQL Consolidation
-- Participated in database consolidation and modernization efforts
-- Improved performance, reliability, and data governance
+- Developed Architecture views
 
 ### Metrolinx – Okta Implementation
-- Supported identity and access management modernization
-- Assisted with configuration, testing, and rollout
+- Developed Architecture views
 
 ### Metrolinx – Customer WiFi Project
-- Contributed to public WiFi deployment across GO Transit
-- Assisted with vendor coordination and technical validation
+- Developed Architecture views
 
 ### Metrolinx – GO Transit Web Redesign
-- Supported redesign of GO Transit’s public website
-- Assisted with content migration, UX validation, and stakeholder reviews
+- Developed Architecture views
 
 ---
 
