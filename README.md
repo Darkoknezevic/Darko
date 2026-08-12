@@ -19,7 +19,9 @@ Below you will find my resume and links to my work, projects, and professional b
 - Delivered project coordination, requirements support, and workflow alignment
 
 ### ONxpress Transportation Partners – IVU Implementation
-- Contributed to IVU rail scheduling and operations modernization
+- Led end-to-end delivery of IVU Transit Operations cloud technologies (AWS SaaS) supporting Train Crew, Fleet, Train Service Planning, and Network Operations Centre.
+- Developed architecture documents (Conceptual, Logical, Physical) using TOGAF and the Blue Dolphin platform.
+
 - Assisted with system configuration, data validation, and stakeholder coordination
 
 ### Toyota Canada – My Toolbox & SharePoint Workspaces Modernization
