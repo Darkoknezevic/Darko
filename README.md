@@ -12,15 +12,46 @@ Below you will find my resume and links to my work, projects, and professional b
 
 ---
 
-## 💼 Professional Focus
-- Solutions Engineering (Pre-Sales)
-- SaaS & Cloud Architecture (Azure, AWS)
-- Dynamics 365 & Power Platform
-- GRC, Risk, Compliance (RSA Archer)
-- API & Integration Architecture
-- Technical Storytelling & Executive Demos
+## 🧩 Projects
+
+### Mohawk Medbuy – QwantifyP2P Solution
+- Supported procurement modernization through QwantifyP2P
+- Delivered project coordination, requirements support, and workflow alignment
+
+### ONxpress Transportation Partners – IVU Implementation
+- Contributed to IVU rail scheduling and operations modernization
+- Assisted with system configuration, data validation, and stakeholder coordination
+
+### Toyota Canada – My Toolbox & SharePoint Workspaces Modernization
+- Modernized legacy SharePoint workspaces
+- Improved collaboration, document management, and workflow automation
+
+### Toyota Canada – LOB Apps Migration & Development
+- Migrated legacy business applications to modern platforms
+- Built Power Platform solutions to replace outdated workflows
+
+### Metrolinx – Office 365 Migration
+- Supported enterprise migration planning and execution
+- Assisted with user onboarding, communication, and adoption
+
+### Metrolinx – SQL Consolidation
+- Participated in database consolidation and modernization efforts
+- Improved performance, reliability, and data governance
+
+### Metrolinx – Okta Implementation
+- Supported identity and access management modernization
+- Assisted with configuration, testing, and rollout
+
+### Metrolinx – Customer WiFi Project
+- Contributed to public WiFi deployment across GO Transit
+- Assisted with vendor coordination and technical validation
+
+### Metrolinx – GO Transit Web Redesign
+- Supported redesign of GO Transit’s public website
+- Assisted with content migration, UX validation, and stakeholder reviews
 
 ---
+
 ## 🎓 Certifications
 
 - **Project Management Professional (PMP)** — In Progress
