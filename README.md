@@ -1,5 +1,5 @@
 # Darko Knezevic
-### Solutions Engineer | Solutions Architect | SaaS | GRC | Cloud | Integrations
+### Solutions Architect
 
 Welcome to my professional GitHub profile.  
 Below you will find my resume and links to my work, projects, and professional background.
