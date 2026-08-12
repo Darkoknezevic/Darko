@@ -47,5 +47,5 @@ Below you will find my resume and links to my work, projects, and professional b
 
 ---
 ## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/darko-knezevic/
+- LinkedIn: https://www.linkedin.com/in/darko-knezevic-02006941/
 - Email: darko1.knezevic.dk@gmail.com
