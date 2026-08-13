@@ -6,9 +6,68 @@ Below you will find my resume and links to my work, projects, and professional b
 
 ---
 
-## 📄 Resume
-- [Download Resume (PDF)](./Darko_Knezevic_Resume.pdf)
-- [Download Resume (DOCX)](./Darko_Knezevic_Resume.docx)
+## 🛠️ Skills
+
+### **Technical Skills**
+- C, C++, Java  
+- HTML, XML  
+- Simply Accounting  
+- SAP Business Objects InfoView (Web Intelligence X1 R1/R2)  
+- Microsoft Power Platform  
+- Microsoft Dynamics 365  
+- JIRA  
+- Sparx Systems Enterprise Architect  
+- Microsoft Azure  
+- BiZZdesign Enterprise Studio & HoriZZon  
+- Kibana  
+- ServiceNow  
+- Orbus iServer  
+- LeanIX  
+- GitHub  
+- Archi  
+- Aha!  
+- Excel Power Pivot  
+- Cisco Historical Reports  
+- BMC Remedy ITSM 7.6  
+- Crystal Reports  
+- IBM Rational Publishing Engine  
+- MS SQL Server 2014  
+- SQL Server Reporting Services (SSRS)  
+- Minitab, R, SPSS, SAS  
+- Python  
+- Jupyter Notebook  
+- Tableau  
+- Power BI  
+- Qlik Sense  
+- Oracle EBS  
+- Oracle Database  
+- Oracle Cloud  
+- Hyperion & Hyperion Cloud  
+- Snowflake Data Warehouse  
+- SAP Ariba Procure‑to‑Pay  
+- ESM Tivoli Monitoring Suite  
+
+---
+
+### **Office & Productivity Tools**
+ - VBA  
+- MS Visio  
+- MS Project  
+- MS Access  
+- MS Power BI  
+- MS Power Automate  
+- MS Power Apps  
+- MS SharePoint  
+- MS PowerPoint  
+
+---
+
+### **Statistical Software**
+- Minitab  
+- R  
+- SPSS  
+- SAS  
+
 
 ---
 
