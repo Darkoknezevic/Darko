@@ -13,7 +13,12 @@ Below you will find my resume and links to my work, projects, and professional b
 - HTML, XML  
 - Simply Accounting  
 - SAP Business Objects InfoView (Web Intelligence X1 R1/R2)  
-- Microsoft Power Platform  
+- Microsoft Power Platform (Power BI, Power Pages, Power Apps, Power Automate)
+- VBA  
+- MS Visio  
+- MS Project
+- MS Access  
+- Azure Blob Storage  
 - Microsoft Dynamics 365  
 - JIRA  
 - Sparx Systems Enterprise Architect  
@@ -26,7 +31,6 @@ Below you will find my resume and links to my work, projects, and professional b
 - GitHub  
 - Archi  
 - Aha!  
-- Excel Power Pivot  
 - Cisco Historical Reports  
 - BMC Remedy ITSM 7.6  
 - Crystal Reports  
@@ -36,38 +40,13 @@ Below you will find my resume and links to my work, projects, and professional b
 - Minitab, R, SPSS, SAS  
 - Python  
 - Jupyter Notebook  
-- Tableau  
-- Power BI  
+- Tableau   
 - Qlik Sense  
 - Oracle EBS  
 - Oracle Database  
 - Oracle Cloud  
-- Hyperion & Hyperion Cloud  
 - Snowflake Data Warehouse  
-- SAP Ariba Procure‑to‑Pay  
 - ESM Tivoli Monitoring Suite  
-
----
-
-### **Office & Productivity Tools**
- - VBA  
-- MS Visio  
-- MS Project  
-- MS Access  
-- MS Power BI  
-- MS Power Automate  
-- MS Power Apps  
-- MS SharePoint  
-- MS PowerPoint  
-
----
-
-### **Statistical Software**
-- Minitab  
-- R  
-- SPSS  
-- SAS  
-
 
 ---
 
