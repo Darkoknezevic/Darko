@@ -2,7 +2,7 @@
 ### Solutions Architect
 
 Welcome to my professional GitHub profile.  
-Below you will find my resume and links to my work, projects, and professional background.
+Below you will find my information about my technical skills, project work and certifications.
 
 ---
 
