@@ -10,8 +10,8 @@ Below you will find my resume and links to my work, projects, and professional b
 
 ### **Technical Skills**
 - C, C++, Java  
-- HTML, XML  
-- Simply Accounting  
+- HTML, XML
+- JSON 
 - SAP Business Objects InfoView (Web Intelligence X1 R1/R2)  
 - Microsoft Power Platform (Power BI, Power Pages, Power Apps, Power Automate)
 - VBA  
@@ -46,7 +46,8 @@ Below you will find my resume and links to my work, projects, and professional b
 - Oracle Database  
 - Oracle Cloud  
 - Snowflake Data Warehouse  
-- ESM Tivoli Monitoring Suite  
+- ESM Tivoli Monitoring Suite
+- Simply Accounting   
 
 ---
 
